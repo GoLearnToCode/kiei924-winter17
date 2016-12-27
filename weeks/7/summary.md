@@ -1,0 +1,3 @@
+- React homework review and practice
+- Using Firebase to build a basic back-end
+- Mobile app development fundamentals
