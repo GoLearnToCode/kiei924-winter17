@@ -1,6 +1,6 @@
 # Goals
 
-* Grab public code - https://github.com/kiei924-fall16/week2
+* Grab public code - https://github.com/kiei924-winter17/week2
 * Content Layout
   * Navigation
   * Headers and Footers
