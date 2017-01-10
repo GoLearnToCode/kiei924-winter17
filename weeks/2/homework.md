@@ -1,4 +1,4 @@
-# Due Next Thursday by 11:59PM
+# Due Next Monday by 11:59PM
 
 Build a working, live website, that's available to view at http://*your Github username*.github.io. You should:
 
