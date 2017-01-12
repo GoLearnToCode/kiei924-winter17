@@ -8,6 +8,20 @@ Build a working, live website, that's available to view at http://*your Github u
 4. Link to a separate stylesheet file that's shared across all pages on your site (see CSS guidelines below).
 5. Sync your code into your GitHub.com account. The repository should be named *(your Github username)*.github.io. For example, my Github username is *eng*, so my repository name for this assignment should be *eng.github.io*. This will automatically make your page available on the public Internet at that address (e.g. http://eng.github.io/).
 
+## Linking the pages
+
+If all goes well, your directory structure should resemble something like this:
+
+    Your code folder
+    - username.github.io
+    -- index.html
+    -- page2.html
+    -- page3.html
+
+The "home page" (i.e. what visitors will see when they go to username.github.io) is the `index.html` file, and is the only filename that really matters. You can name the other files whatever you want.
+
+Creating links between the pages is as simple as `<a href="page2.html">My second page</a>`. Don't use "absolute" paths, for instance `<a href="C:\\code\username.github.io\page2.html">My second page</a>` or `<a href="http://username.github.io/page2.html">My second page</a>` -- just use the filename by itself. This is known as the "relative" path and works great, as long as the files are all in the same directory.
+
 ## HTML Guidelines
 
 You should use these elements at least once, and use proper indentation and spacing:
@@ -51,4 +65,4 @@ You should:
 - **Use your own CSS in addition to Bootstrap, in order to customize the look of your site. Override at least 3 of Bootstrap's style rules.**
 - Use Font Awesome and/or Google Fonts to add custom typography/icongraphy to your site.
 
-Commit and sync your changes to your Github account no later than 11:59pm on Thursday.
+Commit and sync your changes to your Github account no later than 11:59pm on Monday.
