@@ -1,6 +1,6 @@
 # Week 4 Homework - Graded (20 points)
 
-### Due Date: Next Thursday, 11:59pm
+### Due Date: Next Monday, 1/30, 11:59pm
 
 This week's homework is to build two JavaScript applications. Both applications should live in a single GitHub repository, named *week4*. For grading, the assignment will be automatically downloaded from your GitHub account, so **the name of the repository matters** -- make sure your submission lives at https://github.com/your-username/week4.
 
@@ -27,7 +27,7 @@ Minimum directory structure for your submission:
     
 * "Poker" JavaScript app (10 points)
   * A jQuery-based application that simulates the dealing of five random playing cards when a button is pressed (e.g. "Deal")
-  * Use https://github.com/kiei924-fall16/poker as a starting point
+  * Use https://github.com/kiei924-winter17/poker as a starting point
   * The cards dealt must be unique, just like Vegas
   * Card images can be found using the following convention: http://golearntocode.com/images/cards/5_of_diamonds.png
   * You can use Bootstrap's *img-responsive* helper class to make the cards not so huge :)
