@@ -4,7 +4,7 @@ One trait that is very common among professional software developers is that the
 
 ### What is this mythical "command-line" you speak of?
 
-A computer's command-line interface (CLI) is a way for you to tell your computer to do things by inputting commands, instead of using the mouse. Yeah, it's old-school. But it's also a way to do things much, much faster than clicking around, so it's preferred by most software developers. We've got stuff to do, after all.
+A computer's command-line interface (CLI) is a way for you to tell your computer to do things by inputting commands, instead of using the mouse. It's old-school. But it's also a way to do things much, much faster than clicking around all the time, so it's the preferred way for many professional developers to manage files and run software.
 
 ### How to access the command-line
 
@@ -14,7 +14,7 @@ On Windows, it's called "Command Prompt". The fastest way to get there is from t
 
 ### What can I do with it?
 
-Almost anything you'd normally do with the mouse and keyboard. In this cheat sheet, we'll focus on things having to do with file/directory viewing and manipulation. Ordinarily, you'd use Finder (Mac) or Explorer (Windows) to browse files, move them around, delete them, etc. We're going to learn how to do these things with the command-line.
+Almost anything you'd normally do with the mouse and keyboard. In this cheat sheet, we'll focus on something simple – how to traverse and browse the directory structure on your computer. We're going to learn how to use the command-line to do the things you'd ordinarily use Finder (Mac) or Explorer (Windows) to do.
 
 ### Knowing about and changing the current working directory
 
