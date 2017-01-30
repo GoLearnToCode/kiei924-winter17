@@ -60,3 +60,26 @@ You can, of course, also `cd` directly to a folder, if you know its exact locati
 `cd \code\dice` (Windows)
 `cd code/dice` (Mac)
 
+### Ok, what now?
+
+Most commands you issue at the command-line (like `ls` or `dir`) will operate on the files in the current working directory.
+
+Try viewing a file in the current working directory:
+
+`type index.html` (Windows)
+`cat index.html` (Mac)
+
+We can also copy it:
+
+`copy index.html index2.html` (Windows)
+`cp index.html index2.html` (Mac)
+
+Or move (rename it):
+
+`move index.html index2.html` (Windows)
+`mv index.html index2.html` (Mac)
+
+Or delete it:
+
+`del index2.html` (Windows)
+`rm index2.html` (Mac)
