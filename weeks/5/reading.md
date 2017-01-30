@@ -1,4 +1,4 @@
-- [Buyflix Starter Project](https://github.com/kiei924-fall16/buyflix-react)
+- [Buyflix Starter Project](https://github.com/kiei924-winter17/buyflix-react)
 - [Video: React Fundamentals](https://www.dropbox.com/s/8wzbjtv8tkszu0o/1%20-%20React%20Fundamentals.mp4?dl=0)
 - [Video: Transferring Props and Using JSX](https://www.dropbox.com/s/hj6ihhnjyx4t3lo/2%20-%20Transferring%20Props%20and%20Using%20JSX.mp4?dl=0)
 - [Video: Class Hierarchy and Real Data](https://www.dropbox.com/s/j79lu02bz6nkyi9/3%20-%20Class%20Hierarchy%20and%20Real%20Data.mp4?dl=0)
