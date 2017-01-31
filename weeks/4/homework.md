@@ -1,6 +1,6 @@
 # Week 4 Homework - Graded (20 points)
 
-### Due Date: Next Monday, 1/30, 11:59pm
+### Due Date: Monday, 1/30 (Evanston)/Tuesday, 1/31 (Chicago), 11:59pm
 
 This week's homework is to build two JavaScript applications. Both applications should live in a single GitHub repository, named *week4*. For grading, the assignment will be automatically downloaded from your GitHub account, so **the name of the repository matters** -- make sure your submission lives at https://github.com/your-username/week4.
 
