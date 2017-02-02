@@ -2,6 +2,18 @@
 
 Download `https://github.com/kiei924-winter17/dice-react` as a ZIP file (do not "clone" or "fork") and unzip into your code folder.
 
+Install the necessary software to run the app by doing:
+
+```
+npm install
+```
+
+Then, start the React application:
+
+```
+npm start
+```
+
 Roll the dice!
 
 - Each refresh of the page should display two new, random dice.
