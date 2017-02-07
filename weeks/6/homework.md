@@ -10,6 +10,6 @@ This week's homework is to build a poker application using React. This applicati
   * The cards dealt must be unique, just like Vegas
   * Card images can be found using the following convention: http://golearntocode.com/images/cards/5_of_diamonds.png
   * Requirements for full credit:
-    * Create your own React class to represent a card.
+    * Create your own React class to represent a card (the file is already in place; the implementation is up to you).
     * Store the "hand" (i.e. the five random cards) in `state`.
     * Create your function to deal out five new cards, replacing the hand in `state` when the "Deal" button is pressed.
