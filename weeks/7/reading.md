@@ -22,7 +22,7 @@ npm install -g firebase-tools
 {
   "rules": {
     ".read": true,
-    ".write": true"
+    ".write": true
   }
 }
 ```
