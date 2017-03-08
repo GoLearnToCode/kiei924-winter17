@@ -1,2 +1,3 @@
 - [UFO Data](https://github.com/planetsig/ufo-reports)
+- [CNN Exit Poll Data](http://data.cnn.com/ELECTION/2016/full/P.full.json)
 - [ChartJS](http://www.chartjs.org/)
